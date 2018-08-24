@@ -9,7 +9,7 @@ This is my final project in my nanodegree by Udacity. This project is coded in R
 
 *Start downloading the repository.
 
-`git clone `
+`https://github.com/rasha-hany/map-react `
 
 *Inside the project folder, install the dependencies with npm.
 
